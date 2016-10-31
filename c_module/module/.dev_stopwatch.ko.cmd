@@ -1,0 +1,1 @@
+cmd_/root/바탕화면/HW3_temp/20101605/module/dev_stopwatch.ko := /opt/toolchains/arm-2009q1/bin/arm-none-linux-gnueabi-ld -EL -r  -T /root/5week/kernel/scripts/module-common.lds --build-id -o /root/바탕화면/HW3_temp/20101605/module/dev_stopwatch.ko /root/바탕화면/HW3_temp/20101605/module/dev_stopwatch.o /root/바탕화면/HW3_temp/20101605/module/dev_stopwatch.mod.o

@@ -1,0 +1,4 @@
+adb push ins /
+adb push rmm /
+adb push stopwatch.ko /
+adb push fpga_push_switch_driver.ko /

@@ -1,0 +1,3 @@
+insmod stopwatch.ko
+mknod /dev/stopwatch c 245 0
+./app

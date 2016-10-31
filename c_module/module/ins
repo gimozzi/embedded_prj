@@ -1,0 +1,4 @@
+insmod stopwatch.ko
+insmod fpga_push_switch_driver.ko
+mknod /dev/stopwatch c 245 0
+mknod /dev/fpga_push_switch_driver c 265 0

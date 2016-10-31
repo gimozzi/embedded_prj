@@ -1,0 +1,2 @@
+rmmod stopwatch
+rmmod fpga_push_switch_driver
